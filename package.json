@@ -1,0 +1,13 @@
+{
+  "name": "interactive-neural-mastery-network",
+  "version": "1.0.0",
+  "description": "Minimal interactive neural network dashboard",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve",
+    "sync": "node daily-sync.js"
+  },
+  "devDependencies": {
+    "serve": "^14.0.0"
+  }
+}
